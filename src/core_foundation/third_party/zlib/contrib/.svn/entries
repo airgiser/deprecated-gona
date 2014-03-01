@@ -1,122 +1,0 @@
-10
-
-dir
-24
-https://svn.code.sf.net/p/gona/code-0/trunk/src/core_foundation/third_party/zlib/contrib
-https://svn.code.sf.net/p/gona/code-0
-
-
-
-2013-12-01T08:02:36.851469Z
-3
-airgis
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0f9967b6-68cc-4872-9dd5-8348f4bca1d6
-
-gcc_gvmat64
-dir
-
-blast
-dir
-
-iostream2
-dir
-
-delphi
-dir
-
-iostream3
-dir
-
-untgz
-dir
-
-dotzlib
-dir
-
-amd64
-dir
-
-minizip
-dir
-
-iostream
-dir
-
-asm686
-dir
-
-ada
-dir
-
-infback9
-dir
-
-README.contrib
-file
-
-
-
-
-2013-12-03T20:53:01.242199Z
-07b7334256daa5e6a699030b23f66097
-2013-12-01T08:02:36.851469Z
-3
-airgis
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3183
-
-vstudio
-dir
-
-masmx64
-dir
-
-inflate86
-dir
-
-puff
-dir
-
-testzlib
-dir
-
-masmx86
-dir
-
-pascal
-dir
-

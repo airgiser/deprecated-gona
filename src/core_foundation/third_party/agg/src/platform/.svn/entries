@@ -1,80 +1,0 @@
-10
-
-dir
-24
-https://svn.code.sf.net/p/gona/code-0/trunk/src/core_foundation/third_party/agg/src/platform
-https://svn.code.sf.net/p/gona/code-0
-
-
-
-2013-12-01T08:02:36.851469Z
-3
-airgis
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0f9967b6-68cc-4872-9dd5-8348f4bca1d6
-
-sdl
-dir
-
-win32
-dir
-
-BeOS
-dir
-
-X11
-dir
-
-Makefile.am
-file
-
-
-
-
-2013-12-03T20:57:31.974198Z
-531633d149b24b441eda9e9412c26992
-2013-12-01T08:02:36.851469Z
-3
-airgis
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-42
-
-AmigaOS
-dir
-
-mac
-dir
-
