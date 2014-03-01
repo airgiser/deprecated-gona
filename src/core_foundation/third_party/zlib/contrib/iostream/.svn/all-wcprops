@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/contrib/iostream
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/contrib/iostream/test.cpp
+END
+zfstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/contrib/iostream/zfstream.h
+END
+zfstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/contrib/iostream/zfstream.cpp
+END

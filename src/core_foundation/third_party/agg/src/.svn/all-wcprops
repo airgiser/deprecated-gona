@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/configure.in
+END
+agg_vcgen_stroke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vcgen_stroke.cpp
+END
+agg_bspline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_bspline.cpp
+END
+agg_vpgen_clip_polygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vpgen_clip_polygon.cpp
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/readme
+END
+agg_trans_single_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_trans_single_path.cpp
+END
+agg_line_profile_aa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_line_profile_aa.cpp
+END
+agg_image_filters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_image_filters.cpp
+END
+agg_vcgen_contour.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vcgen_contour.cpp
+END
+agg_vcgen_markers_term.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vcgen_markers_term.cpp
+END
+agg_rounded_rect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_rounded_rect.cpp
+END
+agg_vcgen_bspline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vcgen_bspline.cpp
+END
+agg_embedded_raster_fonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_embedded_raster_fonts.cpp
+END
+agg_sqrt_tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_sqrt_tables.cpp
+END
+authors
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/authors
+END
+agg_vpgen_segmentator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vpgen_segmentator.cpp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/ChangeLog
+END
+agg_trans_double_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_trans_double_path.cpp
+END
+agg_trans_affine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_trans_affine.cpp
+END
+agg_vpgen_clip_polyline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vpgen_clip_polyline.cpp
+END
+agg_vcgen_dash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vcgen_dash.cpp
+END
+agg_trans_warp_magnifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_trans_warp_magnifier.cpp
+END
+agg_gsv_text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_gsv_text.cpp
+END
+agg_arc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_arc.cpp
+END
+agg_bezier_arc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_bezier_arc.cpp
+END
+install
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/install
+END
+agg_curves.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_curves.cpp
+END
+copying
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/copying
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/autogen.sh
+END
+agg_line_aa_basics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_line_aa_basics.cpp
+END
+agg_arrowhead.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_arrowhead.cpp
+END
+news
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/news
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/Makefile
+END
+agg_vcgen_smooth_poly1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/agg_vcgen_smooth_poly1.cpp
+END

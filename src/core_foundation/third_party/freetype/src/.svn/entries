@@ -1,0 +1,134 @@
+10
+
+dir
+24
+https://svn.code.sf.net/p/gona/code-0/trunk/src/core_foundation/third_party/freetype/src
+https://svn.code.sf.net/p/gona/code-0
+
+
+
+2013-12-01T08:02:36.851469Z
+3
+airgis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0f9967b6-68cc-4872-9dd5-8348f4bca1d6
+
+Jamfile
+file
+
+
+
+
+2013-12-03T20:56:22.474198Z
+d6db803dc8261ba9f3d158e7ff70ff01
+2013-12-01T08:02:36.851469Z
+3
+airgis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+783
+
+winfonts
+dir
+
+pcf
+dir
+
+gzip
+dir
+
+smooth
+dir
+
+base
+dir
+
+sfnt
+dir
+
+autofit
+dir
+
+lzw
+dir
+
+truetype
+dir
+
+bzip2
+dir
+
+type42
+dir
+
+pfr
+dir
+
+bdf
+dir
+
+pshinter
+dir
+
+gxvalid
+dir
+
+cff
+dir
+
+cid
+dir
+
+psaux
+dir
+
+raster
+dir
+
+tools
+dir
+
+otvalid
+dir
+
+type1
+dir
+
+cache
+dir
+
+psnames
+dir
+

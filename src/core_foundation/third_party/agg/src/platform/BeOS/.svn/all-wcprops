@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/platform/BeOS
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/platform/BeOS/Makefile.am
+END
+agg_platform_support.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/src/platform/BeOS/agg_platform_support.cpp
+END

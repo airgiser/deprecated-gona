@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/configure.ac
+END
+ftconfig.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/ftconfig.in
+END
+unix-dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/unix-dev.mk
+END
+configure.raw
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/configure.raw
+END
+freetype2.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/freetype2.in
+END
+unix-cc.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/unix-cc.in
+END
+install.mk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/install.mk
+END
+unixddef.mk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/unixddef.mk
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/install-sh
+END
+detect.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/detect.mk
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/configure
+END
+ft-munmap.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/ft-munmap.m4
+END
+freetype2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/freetype2.m4
+END
+unix-def.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/unix-def.in
+END
+ft2unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/ft2unix.h
+END
+unix-lcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/unix-lcc.mk
+END
+unix.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/unix.mk
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/config.guess
+END
+freetype-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/freetype-config.in
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/ltmain.sh
+END
+ftsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/unix/ftsystem.c
+END

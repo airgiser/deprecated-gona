@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/beos
+END
+beos.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/beos/beos.mk
+END
+detect.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/beos/detect.mk
+END
+beos-def.mk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/beos/beos-def.mk
+END

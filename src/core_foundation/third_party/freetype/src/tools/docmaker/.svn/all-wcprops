@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker
+END
+docmaker.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker/docmaker.py
+END
+tohtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker/tohtml.py
+END
+content.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker/content.py
+END
+docbeauty.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker/docbeauty.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker/utils.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker/formatter.py
+END
+sources.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/tools/docmaker/sources.py
+END

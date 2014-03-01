@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/lzw
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/lzw/rules.mk
+END
+ftzopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/lzw/ftzopen.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/lzw/Jamfile
+END
+ftlzw.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/lzw/ftlzw.c
+END
+ftzopen.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/lzw/ftzopen.h
+END

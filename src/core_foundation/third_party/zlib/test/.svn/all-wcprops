@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/test
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/test/minigzip.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/test/example.c
+END
+infcover.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/zlib/test/infcover.c
+END

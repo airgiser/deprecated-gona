@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/gpc
+END
+gpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/gpc/gpc.h
+END
+VERSIONS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/gpc/VERSIONS.TXT
+END
+copying.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/gpc/copying.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/gpc/Makefile.am
+END
+gpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/gpc/gpc.c
+END

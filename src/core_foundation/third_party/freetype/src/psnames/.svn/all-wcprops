@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/module.mk
+END
+psnamerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/psnamerr.h
+END
+psmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/psmodule.h
+END
+pspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/pspic.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/rules.mk
+END
+pstables.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/pstables.h
+END
+pspic.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/pspic.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/Jamfile
+END
+psnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/psnames.c
+END
+psmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/psnames/psmodule.c
+END

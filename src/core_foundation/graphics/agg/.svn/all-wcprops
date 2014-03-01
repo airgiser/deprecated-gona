@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gona/code-0/!svn/ver/24/trunk/src/core_foundation/graphics/agg
+END
+GnAggRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gona/code-0/!svn/ver/22/trunk/src/core_foundation/graphics/agg/GnAggRenderer.h
+END
+GnBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gona/code-0/!svn/ver/24/trunk/src/core_foundation/graphics/agg/GnBitmap.cpp
+END
+GnAggPixelFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gona/code-0/!svn/ver/19/trunk/src/core_foundation/graphics/agg/GnAggPixelFormat.h
+END
+GnBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gona/code-0/!svn/ver/22/trunk/src/core_foundation/graphics/agg/GnBitmap.h
+END
+GnAggRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gona/code-0/!svn/ver/27/trunk/src/core_foundation/graphics/agg/GnAggRenderer.cpp
+END

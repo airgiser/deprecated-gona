@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/bzip2
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/bzip2/rules.mk
+END
+ftbzip2.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/bzip2/ftbzip2.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/src/bzip2/Jamfile
+END

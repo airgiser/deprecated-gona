@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/png/contrib/pngminim/encoder
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/png/contrib/pngminim/encoder/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/png/contrib/pngminim/encoder/makefile
+END
+pngusr.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/png/contrib/pngminim/encoder/pngusr.h
+END
+pngusr.dfa
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/png/contrib/pngminim/encoder/pngusr.dfa
+END

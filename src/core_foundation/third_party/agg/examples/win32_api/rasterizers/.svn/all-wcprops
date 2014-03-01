@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/rasterizers
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/rasterizers/Makefile
+END
+rasterizers.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/rasterizers/rasterizers.dsp
+END
+rasterizers.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/rasterizers/rasterizers.dsw
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype
+END
+ftmodapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftmodapi.h
+END
+ftchapters.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftchapters.h
+END
+ftcffdrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftcffdrv.h
+END
+ftlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftlist.h
+END
+ftbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftbitmap.h
+END
+tttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/tttags.h
+END
+ftincrem.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftincrem.h
+END
+ftrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftrender.h
+END
+ftgxval.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftgxval.h
+END
+ftimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftimage.h
+END
+t1tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/t1tables.h
+END
+ftotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftotval.h
+END
+ftsnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftsnames.h
+END
+ftpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftpfr.h
+END
+ftmoderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftmoderr.h
+END
+tttables.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/tttables.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/freetype.h
+END
+ftgasp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftgasp.h
+END
+ftcid.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftcid.h
+END
+ftmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftmac.h
+END
+ftoutln.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftoutln.h
+END
+ftcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftcache.h
+END
+ftwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftwinfnt.h
+END
+ftsynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftsynth.h
+END
+ttunpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ttunpat.h
+END
+fterrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/fterrdef.h
+END
+ftmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftmm.h
+END
+ftgzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftgzip.h
+END
+ttnameid.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ttnameid.h
+END
+ftlzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftlzw.h
+END
+fterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/fterrors.h
+END
+ftautoh.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftautoh.h
+END
+ftglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftglyph.h
+END
+ftsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftsystem.h
+END
+ftbzip2.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftbzip2.h
+END
+ftbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftbbox.h
+END
+ftbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftbdf.h
+END
+ftxf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftxf86.h
+END
+ftadvanc.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftadvanc.h
+END
+ftsizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftsizes.h
+END
+ftlcdfil.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftlcdfil.h
+END
+fttrigon.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/fttrigon.h
+END
+ftttdrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftttdrv.h
+END
+fttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/fttypes.h
+END
+ftstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/include/freetype/ftstroke.h
+END

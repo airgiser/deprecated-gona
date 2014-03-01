@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/font_win32_tt
+END
+agg_font_win32_tt.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/font_win32_tt/agg_font_win32_tt.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/font_win32_tt/Makefile.am
+END
+agg_font_win32_tt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/font_win32_tt/agg_font_win32_tt.cpp
+END

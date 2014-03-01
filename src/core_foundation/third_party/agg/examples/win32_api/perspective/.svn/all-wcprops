@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/perspective
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/perspective/Makefile
+END
+perspective.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/perspective/perspective.dsp
+END
+perspective.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/agg/examples/win32_api/perspective/perspective.dsw
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds
+END
+link_dos.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/link_dos.mk
+END
+freetype.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/freetype.mk
+END
+exports.mk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/exports.mk
+END
+link_std.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/link_std.mk
+END
+modules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/modules.mk
+END
+detect.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/detect.mk
+END
+toplevel.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/toplevel.mk
+END
+newline
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gona/code-0/!svn/ver/5/trunk/src/core_foundation/third_party/freetype/builds/newline
+END
