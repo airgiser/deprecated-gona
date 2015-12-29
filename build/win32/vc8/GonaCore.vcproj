@@ -40,7 +40,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="../../../src/core_foundation;../../../src/core_foundation/graphics;../../../src/core_foundation/third_party/agg/font_freetype;../../../src/core_foundation/third_party/agg/include;../../../src/core_foundation/third_party/png;../../../src/core_foundation/third_party/freetype/include"
+				AdditionalIncludeDirectories="../../../src/foundation;../../../src/foundation/graphics;../../../src/foundation/third_party/agg/font_freetype;../../../src/foundation/third_party/agg/include;../../../src/foundation/third_party/png;../../../src/foundation/third_party/freetype/include"
 				PreprocessorDefinitions="WIN32;_DEBUG;_LIB;GONA_FOR_WIN"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
@@ -147,66 +147,66 @@
 			Name="graphics"
 			>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnCanvas.cpp"
+				RelativePath="..\..\..\src\foundation\graphics\GnCanvas.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnCanvas.h"
+				RelativePath="..\..\..\src\foundation\graphics\GnCanvas.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnColor.h"
+				RelativePath="..\..\..\src\foundation\graphics\GnColor.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnImage.cpp"
+				RelativePath="..\..\..\src\foundation\graphics\GnImage.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnImage.h"
+				RelativePath="..\..\..\src\foundation\graphics\GnImage.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnPaint.h"
+				RelativePath="..\..\..\src\foundation\graphics\GnPaint.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnPixelFormat.h"
+				RelativePath="..\..\..\src\foundation\graphics\GnPixelFormat.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\GnRenderer.h"
+				RelativePath="..\..\..\src\foundation\graphics\GnRenderer.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\graphics\native\GnRendererFactory_win.cpp"
+				RelativePath="..\..\..\src\foundation\graphics\native\GnRendererFactory_win.cpp"
 				>
 			</File>
 			<Filter
 				Name="agg"
 				>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\agg\GnAggPixelFormat.h"
+					RelativePath="..\..\..\src\foundation\graphics\agg\GnAggPixelFormat.h"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\agg\GnAggRenderer.cpp"
+					RelativePath="..\..\..\src\foundation\graphics\agg\GnAggRenderer.cpp"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\agg\GnAggRenderer.h"
+					RelativePath="..\..\..\src\foundation\graphics\agg\GnAggRenderer.h"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\agg\GnBitmap.cpp"
+					RelativePath="..\..\..\src\foundation\graphics\agg\GnBitmap.cpp"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\agg\GnBitmap.h"
+					RelativePath="..\..\..\src\foundation\graphics\agg\GnBitmap.h"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\agg\native\GnNativeBitmap_win.h"
+					RelativePath="..\..\..\src\foundation\graphics\agg\native\GnNativeBitmap_win.h"
 					>
 				</File>
 			</Filter>
@@ -214,27 +214,27 @@
 				Name="gl"
 				>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\gl\GnGLContext.h"
+					RelativePath="..\..\..\src\foundation\graphics\gl\GnGLContext.h"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\gl\GnGLFontManager.cpp"
+					RelativePath="..\..\..\src\foundation\graphics\gl\GnGLFontManager.cpp"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\gl\GnGLFontManager.h"
+					RelativePath="..\..\..\src\foundation\graphics\gl\GnGLFontManager.h"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\gl\GnGLRenderer.cpp"
+					RelativePath="..\..\..\src\foundation\graphics\gl\GnGLRenderer.cpp"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\gl\GnGLRenderer.h"
+					RelativePath="..\..\..\src\foundation\graphics\gl\GnGLRenderer.h"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\gl\native\GnNativeGLContext_win.h"
+					RelativePath="..\..\..\src\foundation\graphics\gl\native\GnNativeGLContext_win.h"
 					>
 				</File>
 			</Filter>
@@ -242,21 +242,21 @@
 				Name="image"
 				>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\GnImageLoader.h"
+					RelativePath="..\..\..\src\foundation\graphics\GnImageLoader.h"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\GnImageLoader_png.cpp"
+					RelativePath="..\..\..\src\foundation\graphics\GnImageLoader_png.cpp"
 					>
 				</File>
 				<File
-					RelativePath="..\..\..\src\core_foundation\graphics\GnImageLoader_png.h"
+					RelativePath="..\..\..\src\foundation\graphics\GnImageLoader_png.h"
 					>
 				</File>
 			</Filter>
 		</Filter>
 		<File
-			RelativePath="..\..\..\src\core_foundation\GnPoint.h"
+			RelativePath="..\..\..\src\foundation\GnPoint.h"
 			>
 		</File>
 	</Files>

@@ -19,8 +19,7 @@ m_pixels(pixels)
 
 GnImage::~GnImage()
 {
-  if (m_pixels != NULL)
-  {
+  if (m_pixels != NULL) {
     free(m_pixels);
     m_pixels = NULL;
   }

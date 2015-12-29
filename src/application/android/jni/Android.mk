@@ -7,7 +7,7 @@ GONA_BUILD_FREETYPE := false
 ifeq ($(GONA_BUILD_DEMO), true)
 include $(CLEAR_VARS)
 
-FD_SRC_PATH := ../../core_foundation
+FD_SRC_PATH := ../../foundation
 
 LOCAL_MODULE    := Gona
 LOCAL_SRC_FILES := \
@@ -36,8 +36,8 @@ endif
 ifeq ($(GONA_BUILD_FREETYPE), true)
 include $(CLEAR_VARS)
 
-FT_SRC_PATH := ../../../core_foundation/third_party/freetype
-FT_INC_PATH := ../../core_foundation/third_party/freetype
+FT_SRC_PATH := ../../../foundation/third_party/freetype
+FT_INC_PATH := ../../foundation/third_party/freetype
 
 LOCAL_MODULE := freetype
 LOCAL_SRC_FILES := \

@@ -69,8 +69,7 @@ GnImage *GnPNGImageLoader::loadImage(const char *fileName)
   height = png_get_image_height(png_ptr, info_ptr);
 
   int color_type = png_get_color_type(png_ptr, info_ptr);
-  if (color_type == PNG_COLOR_TYPE_RGB_ALPHA)
-  {
+  if (color_type == PNG_COLOR_TYPE_RGB_ALPHA) {
     int bpp = 32;
     int stride = GnImage::calcStride(width, bpp);
     pixels = (unsigned char *)malloc(stride * height);
@@ -78,13 +77,11 @@ GnImage *GnPNGImageLoader::loadImage(const char *fileName)
 
     int pos = 0;
     png_bytep* row_pointers = png_get_rows(png_ptr, info_ptr);
-    for (unsigned int i = 0; i < height; i++)
-    {
+    for (unsigned int i = 0; i < height; i++) {
       memcpy(pixels + i*stride, row_pointers[i], stride);
     }
   }
-  else if (color_type == PNG_COLOR_TYPE_RGB)
-  {
+  else if (color_type == PNG_COLOR_TYPE_RGB) {
     int bpp = 24;
     int stride = GnImage::calcStride(width, bpp);
     pixels = (unsigned char *)malloc(stride * height);
@@ -92,13 +89,11 @@ GnImage *GnPNGImageLoader::loadImage(const char *fileName)
 
     int pos = 0;
     png_bytep* row_pointers = png_get_rows(png_ptr, info_ptr);
-    for (unsigned int i = 0; i < height; i++)
-    {
+    for (unsigned int i = 0; i < height; i++) {
       memcpy(pixels + i*stride, row_pointers[i], stride);
     }
   }
-  else if (color_type == PNG_COLOR_TYPE_GRAY)
-  {
+  else if (color_type == PNG_COLOR_TYPE_GRAY) {
     int bpp = 8;
     int stride = GnImage::calcStride(width, bpp);
     pixels = (unsigned char *)malloc(stride * height);
@@ -106,13 +101,11 @@ GnImage *GnPNGImageLoader::loadImage(const char *fileName)
 
     int pos = 0;
     png_bytep* row_pointers = png_get_rows(png_ptr, info_ptr);
-    for (unsigned int i = 0; i < height; i++)
-    {
+    for (unsigned int i = 0; i < height; i++) {
       memcpy(pixels + i*stride, row_pointers[i], stride);
     }
   }
-  else
-  {
+  else {
     // currently, other formats are not supported
     png_destroy_read_struct(&png_ptr, &info_ptr, 0);
     fclose(fp);

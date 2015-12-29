@@ -55,8 +55,7 @@ GnGLRendererES::GnGLRendererES() : m_context(0), m_program(0), m_textSize(0) {
 
 GnGLRendererES::GnGLRendererES(GnGLContext *context) : m_context(context), m_program(0), m_textSize(0) {
   m_program = new GnGLShaderProgram(gVertexShader, gFragmentShader);
-  if (m_program && m_program->getProgram() != 0)
-  {
+  if (m_program && m_program->getProgram() != 0) {
     glUseProgram(m_program->getProgram());
     m_vtxCoordLocation = glGetAttribLocation(m_program->getProgram(), "position");
     m_colorLocation = glGetAttribLocation(m_program->getProgram(), "color");
@@ -204,8 +203,7 @@ void GnGLRendererES::drawImage(const GnImage &image, int left, int top) {
   };
   GLfloat vtx[4*3];
   const GLfloat zlevel = 1; // TODO: Z-Level
-  for (int i = 0; i < 4; i++)
-  {
+  for (int i = 0; i < 4; i++) {
     /* TODO: use matrix */
     vtx[i*3] = (points[i].m_x * 2.0 / m_context->getWidth()) - 1; 
     vtx[i*3+1] = 1 - (points[i].m_y * 2.0 / m_context->getHeight());
@@ -239,8 +237,7 @@ void GnGLRendererES::drawImage(const GnImage &image, int left, int top) {
 void GnGLRendererES::drawText(const wchar_t *text, size_t len, int x, int y) {
   // load font
   // TODO: cache font faces
-  if (!m_fontMgr.loadFont(gFontName))
-  {
+  if (!m_fontMgr.loadFont(gFontName)) {
     return;
   }
   m_fontMgr.setFontSize(m_textSize, m_textSize);
@@ -248,8 +245,7 @@ void GnGLRendererES::drawText(const wchar_t *text, size_t len, int x, int y) {
   // render each of charactor in the string
   for (int i = 0; i < len; i++) {
     GnImage *glyph = m_fontMgr.getGlyph(text[i]);
-    if (glyph)
-    {
+    if (glyph) {
       // TODO: positon of the text
       drawImage(*glyph, x, y-glyph->getHeight());
       x += glyph->getWidth();
@@ -257,8 +253,7 @@ void GnGLRendererES::drawText(const wchar_t *text, size_t len, int x, int y) {
       // TODO: cache glyph in font manager
       delete glyph;
     }
-    else
-    {
+    else {
       // may be a space
       x += m_textSize/2;
     }

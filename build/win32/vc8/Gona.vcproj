@@ -40,7 +40,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="../../../src/core_foundation;../../../src/core_foundation/graphics"
+				AdditionalIncludeDirectories="../../../src/foundation;../../../src/foundation/graphics"
 				PreprocessorDefinitions="WIN32;_DEBUG;_WINDOWS;GONA_FOR_WIN"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"

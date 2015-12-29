@@ -40,7 +40,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="../../../src/core_foundation/third_party/zlib"
+				AdditionalIncludeDirectories="../../../src/foundation/third_party/zlib"
 				PreprocessorDefinitions="WIN32;_DEBUG;_LIB"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
@@ -148,67 +148,67 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\png.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\png.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngerror.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngerror.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngget.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngget.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngmem.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngmem.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngpread.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngpread.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngread.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngread.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngrio.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngrio.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngrtran.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngrtran.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngrutil.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngrutil.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngset.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngset.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngtest.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngtest.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngtrans.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngtrans.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngwio.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngwio.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngwrite.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngwrite.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngwtran.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngwtran.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\png\pngwutil.c"
+				RelativePath="..\..\..\src\foundation\third_party\png\pngwutil.c"
 				>
 			</File>
 		</Filter>

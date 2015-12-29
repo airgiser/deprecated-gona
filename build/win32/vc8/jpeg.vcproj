@@ -156,187 +156,187 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jaricom.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jaricom.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcapimin.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcapimin.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcapistd.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcapistd.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcarith.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcarith.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jccoefct.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jccoefct.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jccolor.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jccolor.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcdctmgr.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcdctmgr.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jchuff.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jchuff.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcinit.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcinit.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcmainct.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcmainct.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcmarker.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcmarker.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcmaster.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcmaster.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcomapi.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcomapi.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcparam.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcparam.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcprepct.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcprepct.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jcsample.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jcsample.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jctrans.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jctrans.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdapimin.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdapimin.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdapistd.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdapistd.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdarith.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdarith.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdatadst.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdatadst.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdatasrc.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdatasrc.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdcoefct.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdcoefct.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdcolor.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdcolor.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jddctmgr.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jddctmgr.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdhuff.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdhuff.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdinput.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdinput.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdmainct.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdmainct.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdmarker.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdmarker.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdmaster.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdmaster.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdmerge.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdmerge.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdpostct.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdpostct.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdsample.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdsample.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jdtrans.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jdtrans.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jerror.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jerror.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jfdctflt.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jfdctflt.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jfdctfst.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jfdctfst.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jfdctint.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jfdctint.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jidctflt.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jidctflt.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jidctfst.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jidctfst.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jidctint.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jidctint.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jmemmgr.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jmemmgr.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jmemnobs.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jmemnobs.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jquant1.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jquant1.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jquant2.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jquant2.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\jpeg\jutils.c"
+				RelativePath="..\..\..\src\foundation\third_party\jpeg\jutils.c"
 				>
 			</File>
 		</Filter>

@@ -147,63 +147,63 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\adler32.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\adler32.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\compress.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\compress.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\crc32.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\crc32.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\deflate.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\deflate.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\gzclose.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\gzclose.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\gzlib.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\gzlib.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\gzread.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\gzread.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\gzwrite.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\gzwrite.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\infback.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\infback.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\inffast.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\inffast.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\inflate.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\inflate.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\inftrees.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\inftrees.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\trees.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\trees.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\uncompr.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\uncompr.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\src\core_foundation\third_party\zlib\zutil.c"
+				RelativePath="..\..\..\src\foundation\third_party\zlib\zutil.c"
 				>
 			</File>
 		</Filter>

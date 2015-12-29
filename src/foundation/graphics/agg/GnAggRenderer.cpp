@@ -59,8 +59,7 @@ m_fontCache(m_fontEngine)
 }
 
 GnAggRenderer::~GnAggRenderer() {
-  if (m_bitmap)
-  {
+  if (m_bitmap) {
     delete m_bitmap;
     m_bitmap = NULL;
   }
@@ -71,8 +70,7 @@ void GnAggRenderer::clear(GnColor color) {
 }
 
 void GnAggRenderer::swapBuffers() {
-  if (m_bitmap)
-  {
+  if (m_bitmap) {
     m_bitmap->draw();
   }
 }
@@ -194,8 +192,7 @@ void GnAggRenderer::drawImage(const GnImage &image, int left, int top) {
   span_allocator sa;
 
   GnPixelFormat imgPixelFormat = image.getPixelFormat();
-  if (imgPixelFormat == kFormatRGB24)
-  {
+  if (imgPixelFormat == kFormatRGB24) {
     // construct a rgb24 image accessor
     agg::pixfmt_rgb24 pixfmt(rbuf);
     image_accessor_rgb image_accessor(pixfmt);
@@ -209,8 +206,7 @@ void GnAggRenderer::drawImage(const GnImage &image, int left, int top) {
     // render the path
     agg::render_scanlines(m_rasterizer, m_packedSL, renderer);
   }
-  else if (imgPixelFormat == kFormatRGBA32)
-  {
+  else if (imgPixelFormat == kFormatRGBA32) {
     // construct a rgba32 image accessor
     agg::pixfmt_rgba32 pixfmt(rbuf);
     image_accessor_rgba image_accessor(pixfmt);
@@ -246,8 +242,7 @@ void GnAggRenderer::drawText(const wchar_t *text, size_t len, int x, int y) {
     // render one of the charactors
     if (glyph) {
       m_fontCache.init_embedded_adaptors(glyph, x, y);
-      if(glyph->data_type == agg::glyph_data_gray8)
-      {
+      if(glyph->data_type == agg::glyph_data_gray8) {
         m_aaRen.color(m_color);
         agg::render_scanlines(m_fontCache.gray8_adaptor(), m_fontCache.gray8_scanline(), m_aaRen);
       }

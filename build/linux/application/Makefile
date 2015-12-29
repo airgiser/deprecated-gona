@@ -1,9 +1,9 @@
 CPP = g++
 
-INC_DIR = ../../../src/core_foundation
-CPPFLAGS = -O0 -I ../../../src/core_foundation \
-					 -I ../../../src/core_foundation/graphics \
-					 -I ../../../src/core_foundation/third_party/agg/include \
+INC_DIR = ../../../src/foundation
+CPPFLAGS = -O0 -I ../../../src/foundation \
+					 -I ../../../src/foundation/graphics \
+					 -I ../../../src/foundation/third_party/agg/include \
 					 -I $(INC_DIR)/third_party/agg/font_freetype \
 					 -I $(INC_DIR)/third_party/freetype/include \
 					 -L ../ \

@@ -16,7 +16,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jpeg", "jpeg.vcproj", "{E37
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GonaCore", "GonaCore.vcproj", "{F845BB5A-7DA0-45BA-96D7-7E7297927C86}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "freetype", "..\..\..\src\core_foundation\third_party\freetype\builds\win32\vc2005\freetype.vcproj", "{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "freetype", "..\..\..\src\foundation\third_party\freetype\builds\win32\vc2005\freetype.vcproj", "{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}"
 EndProject
 Global
 	GlobalSection(DPCodeReviewSolutionGUID) = preSolution

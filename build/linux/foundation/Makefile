@@ -1,15 +1,15 @@
 CXX = g++
 LIB = ar cr
 
-CXXFLAGS = -O3 -DGONA_FOR_UNIX -I../../../src/core_foundation \
-		-I../../../src/core_foundation/graphics \
-		-I../../../src/core_foundation/third_party/agg/include \
-		-I../../../src/core_foundation/third_party/agg/font_freetype \
-		-I../../../src/core_foundation/third_party/freetype/include \
-		-I../../../src/core_foundation/third_party/png \
+CXXFLAGS = -O3 -DGONA_FOR_UNIX -I../../../src/foundation \
+		-I../../../src/foundation/graphics \
+		-I../../../src/foundation/third_party/agg/include \
+		-I../../../src/foundation/third_party/agg/font_freetype \
+		-I../../../src/foundation/third_party/freetype/include \
+		-I../../../src/foundation/third_party/png \
 		-L../
 
-SRC_DIR=../../../src/core_foundation
+SRC_DIR=../../../src/_foundation
 
 SRC_CXX=\
 $(SRC_DIR)/graphics/GnCanvas.cpp \
