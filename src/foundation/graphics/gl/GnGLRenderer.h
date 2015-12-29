@@ -14,6 +14,10 @@
 #include <GL/GL.h>
 #elif GONA_FOR_UNIX
 #include <GL/glx.h>
+#elif GONA_FOR_MAC
+#include <OpenGL/gl.h>
+#include <OpenGL/glu.h>
+#include <OpenGL/glext.h>
 #endif
 
 #include "GnGLContext.h"

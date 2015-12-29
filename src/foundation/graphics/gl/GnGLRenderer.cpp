@@ -234,8 +234,8 @@ void GnGLRenderer::drawPolygon(const GnPoint *points, int num) {
 }
 
 void GnGLRenderer::drawImage(const GnImage &image, int left, int top) {
-  unsigned int width = 0;
-  unsigned int height = 0;
+  size_t width = 0;
+  size_t height = 0;
   GLuint texture = loadTexture(image, width, height);
 
   glEnableClientState(GL_TEXTURE_COORD_ARRAY);
