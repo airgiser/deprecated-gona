@@ -9,7 +9,7 @@ CXXFLAGS = -O3 -DGONA_FOR_UNIX -I../../../src/foundation \
 		-I../../../src/foundation/third_party/png \
 		-L../
 
-SRC_DIR=../../../src/_foundation
+SRC_DIR=../../../src/foundation
 
 SRC_CXX=\
 $(SRC_DIR)/graphics/GnCanvas.cpp \
