@@ -307,8 +307,7 @@ GLuint GnGLRendererES::loadTexture(const GnImage &image, size_t &textureWidth, s
 
 GLint GnGLRendererES::getGLPixelFormat(GnPixelFormat pixfmt) {
   GLint internalFormat = 0;
-  switch(pixfmt)
-  {
+  switch(pixfmt) {
   case kFormatRGBA32:
     internalFormat = GL_RGBA;
     break;
@@ -325,8 +324,7 @@ GLint GnGLRendererES::getGLPixelFormat(GnPixelFormat pixfmt) {
   return internalFormat;
 }
 
-int GnGLRendererES::nextPower2(int value)
-{
+int GnGLRendererES::nextPower2(int value) {
   int n = value;
 
   // n is already power of two

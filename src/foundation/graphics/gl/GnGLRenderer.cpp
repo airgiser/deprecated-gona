@@ -19,8 +19,7 @@ m_context(NULL),
 m_textSize(0), 
 m_vtxBufSize(VTX_BUF_INIT_SIZE), 
 m_vtxBuf(NULL),
-m_aaLineTexture(0)
-{
+m_aaLineTexture(0) {
   m_vtxBuf = (GL_Vertex*)malloc(m_vtxBufSize * sizeof(GL_Vertex));
 }
 
@@ -29,8 +28,7 @@ m_context(context),
 m_textSize(0), 
 m_vtxBufSize(VTX_BUF_INIT_SIZE), 
 m_vtxBuf(NULL),
-m_aaLineTexture(0)
-{
+m_aaLineTexture(0) {
   m_vtxBuf = (GL_Vertex*)malloc(m_vtxBufSize * sizeof(GL_Vertex));
 }
 
@@ -281,8 +279,7 @@ void GnGLRenderer::drawText(const wchar_t *text, size_t len, int x, int y) {
   // render each of charactor in the string
   for (size_t i = 0; i < len; i++) {
     GnImage *glyph = m_fontMgr.getGlyph(text[i]);
-    if (glyph)
-    {
+    if (glyph) {
       // TODO: positon of the text
       drawImage(*glyph, x, y-glyph->getHeight());
       x += glyph->getWidth();
@@ -290,8 +287,7 @@ void GnGLRenderer::drawText(const wchar_t *text, size_t len, int x, int y) {
       // TODO: cache glyph in font manager
       delete glyph;
     }
-    else
-    {
+    else {
       // may be a space
       x += m_textSize/2;
     }
@@ -345,8 +341,7 @@ GLuint GnGLRenderer::loadTexture(const GnImage &image, size_t &textureWidth, siz
 
 GLint GnGLRenderer::getGLPixelFormat(GnPixelFormat pixfmt) {
   GLint internalFormat = 0;
-  switch(pixfmt)
-  {
+  switch(pixfmt) {
   case kFormatRGBA32:
     internalFormat = GL_RGBA;
     break;
@@ -363,8 +358,7 @@ GLint GnGLRenderer::getGLPixelFormat(GnPixelFormat pixfmt) {
   return internalFormat;
 }
 
-int GnGLRenderer::nextPower2(int value)
-{
+int GnGLRenderer::nextPower2(int value) {
   int n = value;
 
   // n is already power of two

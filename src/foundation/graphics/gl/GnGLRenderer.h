@@ -7,8 +7,6 @@
 #ifndef GONA_GRAPHICS_GL_RENDERER_H
 #define GONA_GRAPHICS_GL_RENDERER_H
 
-#include "GnRenderer.h"
-
 #ifdef GONA_FOR_WIN
 #include <Windows.h>
 #include <GL/GL.h>
@@ -20,6 +18,7 @@
 #include <OpenGL/glext.h>
 #endif
 
+#include "GnRenderer.h"
 #include "GnGLContext.h"
 #include "GnGLFontManager.h"
 

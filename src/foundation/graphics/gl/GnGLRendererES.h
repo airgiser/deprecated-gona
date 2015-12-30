@@ -7,6 +7,14 @@
 #ifndef GONA_GRAPHICS_GL_RENDERER_ES_H
 #define GONA_GRAPHICS_GL_RENDERER_ES_H
 
+#ifdef GONA_FOR_IOS
+#include <OpenGLES/ES2/gl.h>
+#include <OpenGLES/ES2/glext.h>
+#elif GONA_FOR_ANDROID
+#include <GLES2/gl2.h>
+#include <GLES2/gl2ext.h>
+#endif
+
 #include "GnRenderer.h"
 #include "GnGLContext.h"
 #include "GnGLShaderProgram.h"
