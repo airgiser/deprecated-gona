@@ -29,9 +29,9 @@ public:
   virtual void swapBuffers() = 0;
 
   /**
-   * Initialize the context.
+   * Set the viewport
    */
-  virtual void init(int width, int height) = 0;
+  virtual void setViewport(int x, int y, int width, int height) = 0;
 
   /**
    * Gets the pixel width of the rendering device.

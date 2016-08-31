@@ -17,7 +17,7 @@ public:
   GnNativeGLContext(int width, int height)
   {
     // initialize.
-    init(width, height);
+    setViewport(0, 0, width, height);
   }
 
   virtual ~GnNativeGLContext() {
@@ -39,12 +39,12 @@ public:
   /**
    * Initialize the context.
    */
-  virtual void init(int width, int height) {
+  virtual void setViewport(int x, int y, int width, int height) {
     m_width = width;
     m_height = height;
 
     // sets the viewport.
-    glViewport(0, 0, width, height);
+    glViewport(x, y, width, height);
   }
 
   /**

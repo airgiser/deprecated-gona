@@ -3,6 +3,7 @@ LIB = ar cr
 
 CXXFLAGS = -O3 -DGONA_FOR_MAC -I../../../src/foundation \
 		-I../../../src/foundation/graphics \
+		-I../../../src/foundation/graphics/gl \
 		-I../../../src/foundation/third_party/agg/include \
 		-I../../../src/foundation/third_party/agg/font_freetype \
 		-I../../../src/foundation/third_party/freetype/include \
@@ -19,6 +20,7 @@ $(SRC_DIR)/graphics/agg/GnAggRenderer.cpp \
 $(SRC_DIR)/graphics/agg/GnBitmap.cpp \
 $(SRC_DIR)/graphics/gl/GnGLRenderer.cpp \
 $(SRC_DIR)/graphics/gl/GnGLFontManager.cpp \
+$(SRC_DIR)/graphics/native/GnRendererFactory_mac.cpp \
 $(SRC_DIR)/third_party/agg/font_freetype/agg_font_freetype.cpp
 
 OBJ=$(SRC_CXX:.cpp=.o)
@@ -35,4 +37,5 @@ clean:
 	rm -f $(SRC_DIR)/graphics/*.o
 	rm -f $(SRC_DIR)/graphics/agg/*.o
 	rm -f $(SRC_DIR)/graphics/gl/*.o
+	rm -f $(SRC_DIR)/graphics/native/*.o
 

@@ -18,7 +18,7 @@ libz.a:
 
 libfreetype.a:
 	cd ../../src/foundation/third_party/freetype; \
-	sh ./configure --without-png; make; \
+	sh ./configure --without-png --without-bzip2; make; \
 	cp objs/.libs/libfreetype.a ../../../../build/macos
 
 libgona_foundation.a:

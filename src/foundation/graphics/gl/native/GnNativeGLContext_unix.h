@@ -44,7 +44,7 @@ public:
     }
 
     // initialize.
-    init(width, height);
+    setViewport(0, 0, width, height);
   }
 
   virtual ~GnNativeGLContext() {
@@ -69,16 +69,16 @@ public:
   /**
    * Initialize the context.
    */
-  virtual void init(int width, int height) {
+  virtual void setViewport(int x, int y, int width, int height) {
     // sets the viewport.
     m_width = width;
     m_height = height;
-    glViewport(0, 0, width, height);
+    glViewport(x, y, width, height);
 
     // sets the matrix.
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();
-    glOrtho(0.0, width, height, 0.0, 1.0, -1.0);
+    glOrtho(x, width, height, y, 1.0, -1.0);
   }
 
   /**
