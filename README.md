@@ -1,5 +1,4 @@
 # gona
-a cross-platform library
 
 Prepare for build on windows
 
